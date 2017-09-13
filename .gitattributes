@@ -1,3 +1,2 @@
-*.js linguist-language=node
-*.java linguist-language=node
-*.thrift linguist-language=node
+*.js linguist-language=nodejs
+*.java linguist-language=nodejs
